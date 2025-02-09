@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.head{
+    color: pink;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.head:hover{
+    color: blue;
+    animation:both;
+    font-size: 22px;
+    animation: 0.2;
+}
+.first{
+    width: 50%;
+    background-color: black;
+    color: floralwhite;
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.second{
+    width: 50%;
+    background-color: black;
+    color: floralwhite;
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.End{
+    color: blue;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.first:hover{
+    background-color: white;
+    color: black;
+    width: 50%;
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.second:hover{
+    width: 50%;
+    background-color: white;
+    color: rgb(38, 37, 37);
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
