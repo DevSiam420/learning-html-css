@@ -26,6 +26,28 @@
     padding: 5px;
     margin-bottom: 10px;
 }
+.third{
+    width: 50%;
+    background-color: black;
+    color: floralwhite;
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+.third:hover{
+    background-color: white;
+    color: black;
+    width: 50%;
+    border: 4px;
+    border-radius: 4px;
+    box-shadow: 3px 3px 2px ;
+    margin-left: 100px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
 .second{
     width: 50%;
     background-color: black;
