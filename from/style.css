@@ -1,0 +1,115 @@
+h1 {
+  color: #95a5a6;
+  text-align: center;
+}
+hr{
+    width: 500px;
+    height: 3px;
+    /* color: #636e72; */
+}
+hr:hover{
+    width: 800px;
+    height: 2px;
+}
+.first {
+  color: blue;
+  text-align: center;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-family: sans-serif;
+  display: inline-block;
+  margin-left: 388px;
+}
+.first:hover{
+    color: blue;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+    transition: 0.2s;
+    display: inline-block;
+    margin-left: 388px;
+   
+}
+label {
+  display: block;
+  margin-left: 34%;
+  margin-bottom: 10px;
+}
+label > input {
+  width: 50%;
+  height: 28px;
+  border-radius: 5px;
+  padding-left: 10px;
+}
+.login-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.second {
+  font-size: 17px;
+  width: 100px;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.second:hover {
+  font-size: 18px;
+  animation: 0.9s;
+  cursor: pointer;
+  background-color: blue;
+  color: aliceblue;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+.fieldset-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fieldset-container > fieldset {
+  color: palevioletred;
+  font-size: 20px;
+  border-radius: 20px ;
+  margin-bottom:20px;
+  border: 2px solid #00b894;
+}
+fieldset {
+  color: blueviolet;
+  width: 277px;
+}
+.massages-area{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.massages-area>textarea{
+    border:2px solid blue ;
+    border-radius: 5px;
+
+}
+.submit-button{
+    margin-left: 258px;
+    margin-top: 20px;
+}
+.submit-button>input{
+    width: 130px; 
+    background-color: rgb(64, 64, 224);
+    color: azure;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 17px;
+    font-family: sans-serif;
+}
+.submit-button>input:hover{
+    font-size: 18px;
+    color: #95a5a6;
+    animation: 0.7s;
+    background-color: rgb(129, 53, 201);
+    width: 132px; 
+    font-family: sans-serif;
+
+}
