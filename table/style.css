@@ -1,0 +1,32 @@
+caption{
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 5px ;
+}
+
+table {
+    width: 60%;
+    border-collapse: collapse;
+    background: white;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+ tr ,th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+
+}
+th{
+    background: blanchedalmond;
+    font-family: serif;
+}
+th:hover{
+   background-color: aquamarine;
+   font-size: 17px;
+   transition: 0.5s;
+}
+td:hover{
+    background-color: aquamarine;
+    font-size: 17px;
+    transition: 0.9s;
+}
